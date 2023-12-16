@@ -1,6 +1,6 @@
-# Twitter Clone Backend
+# Backend
 
-Twitter Clone Backend using Node.js, Express.js, MongoDB, Typescript with architecture layers - Router, Controller and Model
+Backend using Node.js, Express.js, MongoDB, Typescript with architecture layers - Router, Controller and Model
 
 ## Highlights of the project
 
